@@ -1,4 +1,4 @@
-package edu.scut.autumn.bean;
+package edu.scut.autumn.test.bean;
 
 /**
  * @author sqyi
